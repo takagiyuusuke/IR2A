@@ -56,11 +56,3 @@ Task2aを以下のように簡略化します。
 
 ### 目標:
 スタートからゴールまで壁や障害物からの距離を最大化しながら辿る
-
----
-
-## 参考文献
-このファイルは以下を参考に作成した。
-- 杉浦孔明教授 機械学習基礎 強化学習の基礎 実習 (閲覧にはkeio.jpの認証が必要)
-
-    https://colab.research.google.com/drive/1-wz31FTjB5o9EKl1gtueZ3pf2ZC7mo1A?usp=sharing
